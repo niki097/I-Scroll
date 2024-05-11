@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div>
-      <h1>Quote App</h1>
+      <h1 className='heading'>Quote App</h1>
       <QuoteList />
     </div>
 
