@@ -1,0 +1,42 @@
+body {
+    background-color: #040E27; 
+    color: white; 
+    font-family: sans-serif;
+  }
+  
+  .quote-list {
+    width: 80%; 
+    margin: 0 auto; 
+    padding: 0;
+    list-style: none;
+  }
+  
+  .quote-item {
+    background-color: #152039; 
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+  }
+  
+  .quote-text {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 10px;
+    color: #f0f0f0; 
+  }
+  
+  .quote-author {
+    font-style: italic;
+    font-size: 0.9rem;
+    color: #888; 
+  }
+  
+  .loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    font-size: 1.2rem; 
+  }
+  
+  
